@@ -13,6 +13,8 @@ __All copies of vessel AIO will be extremely limited.__
 * Monitors
 * Release information
 * Market information
+* Sneaker News
+* Personal Coastic Portfolio
 ### Browser Spoofing
 ### Supported Platforms
 - [ ] Shopify
