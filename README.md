@@ -51,10 +51,13 @@ __All copies of vessel AIO will be extremely limited.__
 - [ ] Funko
 ### Account Creator
 Generate unique Shopify & Footsite accounts with jigged emails, names, addressed, and phone numbers.
+### Built-in Akamai Proxy Tester
+Test proxies on https://www.akamai.com/us/en/clientrep-lookup/?language=en_US straight from vessel AIO.
 ### Instant Payout Tasks
 Specific products may be eligible for Instant Payout Tasks.
 ### Capture Mode
 Automatically blur and censors your personal information with our built in Capture Mode. Capture Mode gives you the ability to hide accounts, addresses, cards, emails, passwords, phone numbers, proxies, sizes, retailers, delays, and Coastic specific alerts and information.
 ### Spotify Integration
+Enjoy Spotify streaming via vesseal AIO. Choose to suppress music during a cart, captcha, error, and/or checkout notifaction.
 
 __PROUDLY CREATED IN THE UNITED STATES OF AMERICA__
