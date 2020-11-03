@@ -58,6 +58,6 @@ Specific products may be eligible for Instant Payout Tasks.
 ### Capture Mode
 Automatically blur and censors your personal information with our built in Capture Mode. Capture Mode gives you the ability to hide accounts, addresses, cards, emails, passwords, phone numbers, proxies, sizes, retailers, delays, and Coastic specific alerts and information.
 ### Spotify Integration
-Enjoy Spotify streaming via vesseal AIO. Choose to suppress music during a cart, captcha, error, and/or checkout notifaction.
+Enjoy Spotify streaming via vessel AIO. Choose to suppress music during a cart, captcha, error, and/or checkout notifaction.
 
 __PROUDLY CREATED IN THE UNITED STATES OF AMERICA__
