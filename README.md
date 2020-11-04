@@ -53,6 +53,8 @@ __All copies of vessel AIO will be extremely limited.__
 Generate unique Shopify & Footsite accounts with jigged emails, names, addressed, and phone numbers.
 ### Built-in Akamai Proxy Tester
 Test proxies on https://www.akamai.com/us/en/clientrep-lookup/?language=en_US straight from vessel AIO.
+### Built-in Proxy Blacklist Tester
+Test if your proxies are being flagged or blacklisted by dozens of different databases on https://whatismyipaddress.com/blacklist-check.
 ### Instant Payout Tasks
 Specific products may be eligible for Instant Payout Tasks.
 ### Capture Mode
