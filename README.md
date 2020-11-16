@@ -49,6 +49,9 @@ __All copies of vessel AIO will be extremely limited.__
 - [ ] Federal Ammunition
 - [ ] Bass Pro Shops
 - [ ] Funko
+- [ ] Guitar Center
+- [ ] Sweetwater
+- [ ] Musician's Friend
 ### Account Creator
 Generate unique Shopify & Footsite accounts with jigged emails, names, addressed, and phone numbers.
 ### Built-in Akamai Proxy Tester
